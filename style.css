@@ -1,0 +1,13 @@
+@media screen and (max-width:900px) {
+    .any {
+        margin-top: 40px;
+    }
+
+    .change {
+
+        display: flex;
+        flex-direction: column;
+
+
+    }
+}
